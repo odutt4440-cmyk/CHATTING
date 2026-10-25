@@ -1,0 +1,7 @@
+kurigram>=2.2.26
+telethon>=1.36
+aiosqlite>=0.20
+aiohttp>=3.9
+cryptography>=42.0
+python-dotenv>=1.0
+tgcrypto>=1.2
